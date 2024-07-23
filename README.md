@@ -1,4 +1,4 @@
-# Web Content Monitor
+# Smart Web Watcher
 
 This project is a robust web content monitoring system that periodically checks specified URLs for changes and notifies users of significant updates via Discord webhooks.
 
