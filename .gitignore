@@ -1,0 +1,6 @@
+content_archives
+current_content
+.env
+__pycache__
+*log
+
